@@ -17,6 +17,9 @@ This project features a simple contact form that allows users to submit their in
 - A web browser (e.g., Chrome).
 - A text editor (e.g., VSCode).
 
+### Demo
+You can view live demo here "http://localhost:3000".
+
 ### Installation
 
 1. **Clone the Repository:**
