@@ -9,6 +9,7 @@ This project features a simple contact form that allows users to submit their in
 - **HTML Form:** A user-friendly contact form built with HTML.
 - **CSS Styling:** Responsive design for the contact form using CSS.
 - **JavaScript Integration:** Form submission and API interaction handled with JavaScript.
+- **Contacts.txt:** store data after the submission of contact form.
 ## Getting Started
 
 ### Prerequisites
